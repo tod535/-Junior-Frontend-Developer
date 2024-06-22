@@ -1,1 +1,1 @@
-# -Junior-Frontend-Developer
+открыть папку и запустить index.html
